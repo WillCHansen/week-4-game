@@ -1,0 +1,68 @@
+.inline{
+	float: left;
+}
+
+#crystaltitle{
+	font-size: 30px;
+    width: 220px;
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+}
+#crystalinfo{
+    background-color: #fae6ce;
+    width: 450px;
+    font-size: 20px;
+    color: green;
+}
+#score{
+	background-color: #60c780;
+    height: 65px;
+    width: 200px;
+    font-size: 35px;
+}
+#winlose{
+	background-color: #56fdfb;
+    height: 65px;
+    width: 120px;
+    font-size: 35px;
+    margin-left: 10px;
+}
+.crystal{
+	height: 100px;
+    width: 100px;
+}
+#crystalcont{
+	height: 100px;
+}
+#scorecont{
+	height: 65px;
+}
+#totalscoretext{
+	font-size: 20px;
+    width: 200px;
+    background-color: #34a194;
+    color: white;
+}
+#totalscore{
+	background-color: #34a194;
+	color: white;
+    height: 65px;
+    width: 200px;
+    font-size: 35px;
+}
+.crystalimg{
+	max-height: 100%;
+	max-width: 100%;
+}
+.contdiv{
+	margin: 10px;
+}
+p{
+	margin: 10px;
+}
+body{
+	background-image: url("../images/Restaurant.png");
+}
